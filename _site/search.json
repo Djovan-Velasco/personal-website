@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Personal-Website",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal-Website",
+    "title": "Djovan Velasco",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(10)\n\n [1] 0.83724798 0.10266855 0.53042182 0.09673267 0.68287363 0.57846022\n [7] 0.52980274 0.27950965 0.92641365 0.98142228"
+    "text": "Intro"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Djovan Velasco",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | September 2023 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Djovan Velasco",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "projects.html#r",
+    "href": "projects.html#r",
+    "title": "",
+    "section": "R",
+    "text": "R"
+  },
+  {
+    "objectID": "projects.html#sql",
+    "href": "projects.html#sql",
+    "title": "",
+    "section": "SQL",
+    "text": "SQL"
   }
 ]

@@ -1,11 +1,28 @@
 ---
-title: "Personal-Website"
+title: "Djovan Velasco"
+about:
+  template: jolla
+  image: profile.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/djovan-velasco/
+    - icon: github
+      text: Github
+      href: https://github.com/Djovan-Velasco
+    - icon: envelope-fill
+      text: Email
+      url: "mailto:djovan@icloud.com"
+    - text: Resume
+      href: "USC Res-2.pdf"
+toc: false
 ---
 
-This is a Quarto website.
+Intro
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-runif(10)
-```
+University of California, Los Angeles \| Los Angeles, CA B.S in Statistics and Data Science \| September 2023 - June 2026
+
+## Experience
+

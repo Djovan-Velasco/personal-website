@@ -1,20 +1,27 @@
 project:
   type: website
+  resources: 
+    - "USC Res-2.pdf"
 
 website:
-  title: "Personal-Website"
   navbar:
-    right:
+    left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
+        text: About
+      - href: projects.qmd
         text: Projects
+      - href: research.qmd
+        text: Research
+
+  page-footer:
+    right: "&copy; 2026, Djovan Velasco"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 editor: visual
 
+execute: 
+  freeze: auto

@@ -1,0 +1,15 @@
+{
+  "hash": "14e87810c403520503983eea144caab5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Djovan Velasco\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.21758730 0.78946634 0.89737944 0.31470057 0.82213059 0.07456142\n [7] 0.51611188 0.55743445 0.55481221 0.45144639\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
