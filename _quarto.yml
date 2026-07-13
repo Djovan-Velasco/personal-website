@@ -1,7 +1,7 @@
 project:
   type: website
   resources: 
-    - "USC Res-2.pdf"
+    - "Website_Res.pdf"
 
 website:
   navbar:
