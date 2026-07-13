@@ -14,15 +14,15 @@ about:
       text: Email
       url: "mailto:djovan@icloud.com"
     - text: Resume
-      href: "USC Res-2.pdf"
+      href: "Website_Res.pdf"
 toc: false
 ---
 
-Intro
+Aspiring data scientist with a B.S. in Statistics and Data Science at UCLA. Experienced in computational statistics, regression modeling, and predictive analytics using R and Python. Deeply interested in data engineering and analytics, with a drive to transform complex datasets into actionable insights and measurable impact. Passionate about sports and applying data as a tool to foster player growth.
 
 ## Education
 
-University of California, Los Angeles \| Los Angeles, CA B.S in Statistics and Data Science \| September 2023 - June 2026
+University of California, Los Angeles \| B.S in Statistics and Data Science
 
-## Experience
+University of Southern California \| Studying M.S. in Applied Data Science
 

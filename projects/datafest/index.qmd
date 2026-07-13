@@ -1,0 +1,15 @@
+---
+title: "Closing the Outreach Gap: Analyzing Severe Depression Patient Journeys"
+description: "Healthcare data analysis highlighting system gaps for severe depression patients and offering a standardized programmatic solution."
+image: "health.jpg"
+---
+
+## Project Deliverables
+
+:::: {layout-ncol="2"}
+::: {.card .text-center .p-3}
+[![](slide_icon.png)](DatafestPres_Web.pdf)
+
+[**Presentation Slides (PDF)**](DatafestPres_Web.pdf)
+:::
+::::

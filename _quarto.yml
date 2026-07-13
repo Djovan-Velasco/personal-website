@@ -2,7 +2,22 @@ project:
   type: website
   resources: 
     - "Website_Res.pdf"
-
+    - "/Users/djovanvelasco/Personal-Website/projects/us-uk/170_Final_Report-2.pdf"
+    - "/Users/djovanvelasco/Personal-Website/projects/netflix/167_Final_Report-2.pdf"
+    - "/Users/djovanvelasco/Personal-Website/projects/datafest/DatafestPres_Web.pdf"
+    - "/Users/djovanvelasco/Personal-Website/projects/netflix/stats_167_final.pdf"
+    - "/Users/djovanvelasco/Personal-Website/projects/skin-cancer-prediction/101C Project Presentation.pdf"
+    - "/Users/djovanvelasco/Personal-Website/projects/datafest/slide_icon.png"
+    - "/Users/djovanvelasco/Personal-Website/projects/netflix/code_icon.png"
+    - "/Users/djovanvelasco/Personal-Website/projects/netflix/slide_icon.png"
+    - "/Users/djovanvelasco/Personal-Website/projects/skin-cancer-prediction/slide_icon.png"
+    - "/Users/djovanvelasco/Personal-Website/projects/us-uk/code_icon.png"
+    - "/Users/djovanvelasco/Personal-Website/projects/us-uk/slide_icon.png"
+    - "/Users/djovanvelasco/Personal-Website/projects/datafest/health.jpg"
+    - "/Users/djovanvelasco/Personal-Website/projects/netflix/n_logo.jpg"
+    - "/Users/djovanvelasco/Personal-Website/projects/skin-cancer-prediction/health.jpg"
+    - "/Users/djovanvelasco/Personal-Website/projects/us-uk/ex.jpg"
+    
 website:
   navbar:
     left:
@@ -10,8 +25,6 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - href: research.qmd
-        text: Research
 
   page-footer:
     right: "&copy; 2026, Djovan Velasco"

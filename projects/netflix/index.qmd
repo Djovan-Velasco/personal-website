@@ -1,0 +1,21 @@
+---
+title: "Netflix Streaming Engagement Analytics"
+description: "SQL data extraction and non-parametric statistical modeling in R investigating Netflix engagement habits."
+image: "n_logo.jpg"
+---
+
+### Project Deliverables
+
+::::: {layout-ncol="2"}
+::: {.card .text-center .p-3}
+[![](code_icon.png)](stats_167_final.pdf)
+
+[**Code Script**](stats_167_final.pdf)
+:::
+
+::: {.card .text-center .p-3}
+[![](slide_icon.png)](167_Final_Report-2.pdf)
+
+[**Final Report (PDF)**](167_Final_Report-2.pdf)
+:::
+:::::

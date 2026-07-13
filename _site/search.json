@@ -4,34 +4,55 @@
     "href": "index.html",
     "title": "Djovan Velasco",
     "section": "",
-    "text": "Intro"
+    "text": "Aspiring data scientist with a B.S. in Statistics and Data Science at UCLA. Experienced in computational statistics, regression modeling, and predictive analytics using R and Python. Deeply interested in data engineering and analytics, with a drive to transform complex datasets into actionable insights and measurable impact. Passionate about sports and applying data as a tool to foster player growth."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Djovan Velasco",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | September 2023 - June 2026"
+    "text": "Education\nUniversity of California, Los Angeles | B.S in Statistics and Data Science\nUniversity of Southern California | Studying M.S. in Applied Data Science"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Djovan Velasco",
-    "section": "Experience",
-    "text": "Experience"
+    "objectID": "projects/datafest/index.html",
+    "href": "projects/datafest/index.html",
+    "title": "Closing the Outreach Gap: Analyzing Severe Depression Patient Journeys",
+    "section": "",
+    "text": "Presentation Slides (PDF)"
   },
   {
-    "objectID": "projects.html#r",
-    "href": "projects.html#r",
-    "title": "",
-    "section": "R",
-    "text": "R"
+    "objectID": "projects/datafest/index.html#project-deliverables",
+    "href": "projects/datafest/index.html#project-deliverables",
+    "title": "Closing the Outreach Gap: Analyzing Severe Depression Patient Journeys",
+    "section": "",
+    "text": "Presentation Slides (PDF)"
   },
   {
-    "objectID": "projects.html#sql",
-    "href": "projects.html#sql",
-    "title": "",
-    "section": "SQL",
-    "text": "SQL"
+    "objectID": "projects/skin-cancer-prediction/index.html",
+    "href": "projects/skin-cancer-prediction/index.html",
+    "title": "Predicting Skin Cancer Status",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nPresentation Slides (PDF)"
+  },
+  {
+    "objectID": "projects/us-uk/index.html",
+    "href": "projects/us-uk/index.html",
+    "title": "US/UK Exchange Rate Volatility",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nCode Script\n\n\n\nFinal Report (PDF)"
+  },
+  {
+    "objectID": "projects/netflix/index.html",
+    "href": "projects/netflix/index.html",
+    "title": "Netflix Streaming Engagement Analytics",
+    "section": "",
+    "text": "Project Deliverables\n\n\n\n\n\n\n\nCode Script\n\n\n\nFinal Report (PDF)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Closing the Outreach Gap: Analyzing Severe Depression Patient Journeys\n\n\nHealthcare data analysis highlighting system gaps for severe depression patients and offering a standardized programmatic solution.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNetflix Streaming Engagement Analytics\n\n\nSQL data extraction and non-parametric statistical modeling in R investigating Netflix engagement habits.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Skin Cancer Status\n\n\nA machine learning and predictive classification project analyzing 50 variables to identify benign vs. malignant tumor status.\n\n\n\n\n\n\n\n\n\n\n\n\n\nUS/UK Exchange Rate Volatility\n\n\nAn econometrics project evaluating and forecasting US/UK exchange rates using symmetric vs. asymmetric GARCH frameworks.\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

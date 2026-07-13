@@ -1,5 +1,11 @@
-## Python
-
-## R
-
-## SQL
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  sort: "title"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, description]
+---

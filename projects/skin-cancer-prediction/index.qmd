@@ -1,0 +1,17 @@
+---
+title: "Predicting Skin Cancer Status"
+description: "A machine learning and predictive classification project analyzing 50 variables to identify benign vs. malignant tumor status."
+image: "health.jpg"
+---
+
+### Project Deliverables
+
+::: {layout-ncol=2}
+
+::: {.card .text-center .p-3}
+[![](slide_icon.png)](101C Project Presentation.pdf)
+
+[**Presentation Slides (PDF)**](101C Project Presentation.pdf)
+:::
+
+:::

@@ -1,0 +1,24 @@
+---
+title: "US/UK Exchange Rate Volatility"
+description: "An econometrics project evaluating and forecasting US/UK exchange rates using symmetric vs. asymmetric GARCH frameworks."
+image: "ex.jpg"
+---
+
+### Project Deliverables
+
+::: {layout-ncol=2}
+
+::: {.card .text-center .p-3}
+[![](code_icon.png)](stats_170_final-2.R)
+
+[**Code Script**](stats_170_final-2.R)
+:::
+
+::: {.card .text-center .p-3}
+[![](slide_icon.png)](170_Final_Report-2.pdf)
+
+[**Final Report (PDF)**](170_Final_Report-2.pdf)
+:::
+
+:::
+
