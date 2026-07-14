@@ -1,7 +1,7 @@
 project:
   type: website
   resources: 
-    - "Website_Res.pdf"
+    - "DV_resume_web.pdf"
     - "/Users/djovanvelasco/Personal-Website/projects/us-uk/170_Final_Report-2.pdf"
     - "/Users/djovanvelasco/Personal-Website/projects/netflix/167_Final_Report-2.pdf"
     - "/Users/djovanvelasco/Personal-Website/projects/datafest/DatafestPres_Web.pdf"

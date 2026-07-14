@@ -14,7 +14,7 @@ about:
       text: Email
       url: "mailto:djovan@icloud.com"
     - text: Resume
-      href: "Website_Res.pdf"
+      href: "DV_resume_web.pdf"
 toc: false
 ---
 
